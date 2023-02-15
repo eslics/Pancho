@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pancho
+Exec=pancho
+Icon=io.github.eslics.Pancho
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
